@@ -1,0 +1,10 @@
+Question type #01: What’s a good [benchmark/metric] for [process/industry]?
+Question type #02: How to [increase/improve] [benchmark/metric]?
+Question type #03: How to find X?
+Question type #04: How to learn X for free?
+Question type #05: What are the best [tools/products in a category]?
+Question type #06: How much does X cost?
+Question type #07: What’s the best time to do X?
+Question type #08: How to write X?
+Question type #09: How to improve X skills?
+Question type #10: What’s the difference between X and Y? (or X vs. Y)
