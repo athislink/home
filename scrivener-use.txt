@@ -1,0 +1,11 @@
+Label: Para Title
+Status = Not Needed
+
+View "Research" [corkboard]
+Add New Text [Ctrl+N]
+Assign A Note Name
+Open Note (Click on Note Name on LHP)
+Paste Note (from notepad file)
+Return to: View "Research" [corkboard]
+Right Click on Note Name
+Assign "Label"
