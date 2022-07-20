@@ -1,0 +1,30 @@
+
+Table of Contents
+=================
+
+<div style="padding-top: 30px;"></div>
+<b>{tocify} $title={Table of Contents}</b>
+<div style="padding-bottom: 30px;"></div>
+
+
+Ask Comments:
+=============
+
+<hr>
+<div style="padding-top: 60px;"></div>
+<h2 style="text-align: center;"><strong><span style="color: #ff0000;">What else do you want to know?<br />Drop it in the comments.</span></strong></h2>
+<div style="padding-bottom: 40px;"></div>
+
+
+
+
+
+Button:
+=======
+
+
+
+Side Note:
+==========
+
+<div class="alert-message alert-info"><span style="color: #218e83;"><strong>Side Note:</strong><strong><br /><br />If you go for upi-payment option, you will receive your product via whatsapp message with its download link, after we receive the screenshot of the successful payment from you. <br /><br />Please allow up to 24 hours for the download link to arrive.</strong></span></div>
