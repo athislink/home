@@ -1,6 +1,11 @@
+h2 {
+  line-height: 1.6;
+  color: #000000;
+}
 p {
   font-size: 16px;
+  color: #000000;
   line-height: 1.6;
-  margin-top: 15px;
-  margin-bottom: 15px ;
+Â Â margin-top: 15px;
+Â Â margin-bottom: 15px ;
 }
